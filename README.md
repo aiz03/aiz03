@@ -13,3 +13,8 @@ An aspiring Software Developer with prior experience with C++, JAVA, and HTML. I
 - Web: HTML
 - Languages: C++, C, Java
 - Database: SQL
+
+## 🧭 Learning
+
+- 💻 Advance HTML
+- 🎓 College
