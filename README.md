@@ -24,7 +24,7 @@ An aspiring Software Developer with prior experience with C++, JAVA, and HTML. I
 - 📷 [Instagram](https://instagram.com/aiz_katsu)
 - 💬 Discord: @aizkatsu_03
 
-##GitHub Stats
+## GitHub Stats
 ```js
 const me = {
   name: "Aizle",
