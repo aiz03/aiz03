@@ -23,3 +23,14 @@ An aspiring Software Developer with prior experience with C++, JAVA, and HTML. I
 
 - 📷 [Instagram](https://instagram.com/aiz_katsu)
 - 💬 Discord: @aizkatsu_03
+
+```js
+const me = {
+  name: "Aizle",
+  code: ["HTML"],
+  learning: ["Advance HTML"],
+  hobbies: {
+    anime: ["Adventure", "Fantasy"]
+  }
+};
+
