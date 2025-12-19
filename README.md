@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+## 👤 About Me
+An aspiring Software Developer
+## 🛠 Skills
+## 🌐 Socials
+## 📊 GitHub Stats
+
 
 <!--
 **aiz03/aiz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
