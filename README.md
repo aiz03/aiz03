@@ -35,3 +35,4 @@ const me = {
   }
 };
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyKitsus&layout=compact&theme=tokyonight)
