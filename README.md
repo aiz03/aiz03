@@ -24,18 +24,5 @@ An aspiring Software Developer with prior experience with C++, JAVA, and HTML. I
 - 📷 [Instagram](https://instagram.com/aiz_katsu)
 - 💬 Discord: @aizkatsu_03
 
-## GitHub Stats
-```js
-const me = {
-  name: "Aizle",
-  code: ["HTML"],
-  learning: ["Advance HTML"],
-  hobbies: {
-    anime: ["Adventure", "Fantasy"]
-  }
-};
-
-
-> "As long as you are proud you cannot know God. A proud man is always looking down on things and people; and, of course, as long as you are looking down you cannot see something that is above you."
-
->- C.S Lewis
+"As long as you are proud you cannot know God. A proud man is always looking down on things and people; and, of course, as long as you are looking down you cannot see something that is above you."
+- C.S Lewis
