@@ -34,5 +34,3 @@ const me = {
     anime: ["Adventure", "Fantasy"]
   }
 };
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiz03&layout=compact&theme=tokyonight)
